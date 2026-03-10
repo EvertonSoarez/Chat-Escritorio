@@ -526,7 +526,7 @@ Digite *MENU* para voltar ao menu principal.`)
       const saudacao = obterSaudacao()
       const mensagemInicial = `${saudacao}! 👋
 
-Seja bem-vindo(a) ao Escritório Pedelhes Advocacia
+Seja bem-vindo(a) ao Escritório de Advocacia
 
 Somos especializados em:
 ⚖️ Direito Previdenciário
@@ -545,5 +545,6 @@ ${gerarMenuPrincipal()}`
 
 // Inicializa o cliente
 client.initialize()
+
 
 console.log("Iniciando bot do WhatsApp...")
