@@ -441,10 +441,10 @@ Digite *MENU* para voltar.`)
 
 Para agendar um atendimento presencial ou online, entre em contato:
 
-📞 Telefone: (55) 98475789
-📧 Email: everton.soarez@hotmail.com
-📍 Endereço: Rua Tiradentes, 2634, Uruguaiana - RS
-📍 Endereço: Rua 7 de Setembro, 885, Galeria Pujol, Sala 15, 2634, Quaraí - RS
+📞 Telefone: (55) 98499-8499
+📧 Email: email@gmail.com
+📍 Endereço: Rua Santana, 1234, Uruguaiana - RS
+📍 Endereço: Rua Santana, 1234, Quaraí - RS
 
 Horário de atendimento:
 Segunda a Sexta: 9h às 18h
@@ -458,10 +458,10 @@ Digite *MENU* para voltar ao menu principal.`)
 
 Nossa equipe está disponível para atendimento personalizado:
 
-📞 Telefone: (55) 98475789
-📧 Email: everton.soarez@hotmail.com
-📍 Endereço: Rua Tiradentes, 2634, Uruguaiana - RS
-📍 Endereço: Rua 7 de Setembro, 885, Galeria Pujol, Sala 15, 2634, Quaraí - RS
+📞 Telefone: (55) 98499-8499
+📧 Email: email@gmail.com
+📍 Endereço: Rua Santana, 1234, Uruguaiana - RS
+📍 Endereço: Rua Santana, 1234, Quaraí - RS
 
 Ou aguarde que um de nossos advogados entrará em contato em breve!
 
